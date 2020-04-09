@@ -16,7 +16,7 @@ Bootcamp; Python & Angular üzerine front-end ve back-end entegrasyonunu ele alm
 
 Burada eğitim süresince derslerde işlenecek konu başlıkları verilecek. 
 
-* ### Müfredat: 
+ ### Müfredat: 
 - Python'a giriş
 - Git & Gitflow
 - Python ile 3rd Party API kullanımı
