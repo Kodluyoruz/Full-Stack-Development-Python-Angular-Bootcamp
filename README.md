@@ -1,34 +1,38 @@
-# Bootcamp Adı
+# Full Stack Development (Python & Angular) Bootcamp 
 
 #### Programa Genel Bakış
-Bootcamp'in hangi konu üzerine açılacağı, neleri amaçladığı, ne kadar süre devam edeceği bilgilerinin yer alacağı kısım.
+Bootcamp; Python & Angular üzerine front-end ve back-end entegrasyonunu ele almaktadır. Toplam 70 saat sürecek olan bootcamp ile adayların web geliştirme yetkinliklerinin kazandırılması hedeflenmektedir. 
 
 ---
 
-### [Eğitmen Adı-Soyadı]
+### [Oğuzhan Sağoğlu]
 
 #### Nerede çalıştığı, uzmanlık alanı
 
-> Eğitmen hakkında 5,6 cümlelik çok kısa bir özgeçmiş yazısı.
-
+> İstanbul Şehir Üniversitesi Bilgisayar Mühendisliği bölümünden mezun olan Oğuzhan, iki yıl araştırma görevlisi ve üç yıl eğitim görevlisi olarak çalıştıktan sonra farklı firmalarda 5 yıl boyunca çalışmalarına devam etti. Şu anda Bilgisayar Kavramları firmasında CTO olarak görev yapmaktadır.
 ---
 
 ## Eğitim İçeriği:
 
 Burada eğitim süresince derslerde işlenecek konu başlıkları verilecek. 
 
-* ### Hafta 1: 
-* Modern JavaScript
-* Intro to React
-* Virtual DOM
-* JSX
-* Class Components vs Function Components
+* ### Müfredat: 
+- Python'a giriş
+- Git & Gitflow
+- Python ile 3rd Party API kullanımı
+- Neden Mikroservisler?
+- Python (Flask) web app geliştirme
 
-### Hafta 2: 
-* Props & State
-* Create React App
-* React Developer Tools
-* Sample Project 1
+- Neden Javascript?
+- SPA (Single Page App) giriş
+- Angular'a giriş
+
+- FireStore database kullanımı
+- Kimlik denetleme (Authentication)
+- Google Storage Kullanımı
+- Front-End Back-End entegrasyonu
+- Ürünü devreye alma teknolojileri ve süreçleri (DevOps)
+
 
 ---
 
